@@ -1,0 +1,11 @@
+{
+  "used": {
+    "ABCD-1234-EFGH-5678": {
+      "username": "Player123",
+      "userId": 123456789,
+      "hwid": "xxxxxxxxxxxxx",
+      "usedAt": 1704067200,
+      "expiresAt": 1704078000
+    }
+  }
+}
